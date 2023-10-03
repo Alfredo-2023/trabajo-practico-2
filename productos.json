@@ -1,0 +1,50 @@
+[
+    {
+      "nombre":"Calculadora",
+      "descripcion":"Electrónica solar display 12 dígitos",
+      "imagen":"Imagenes/calculadora.jpg",
+      "detalle":"Calculadora de escritorio marca Globo color blanca con visor LCD de 12 dígitos grandes selector de redondeo y de punto decimal, tiene 4 memorias de cálculo con alimentación dual solar y batería. Dimensiones: 15 x 11,5 x 4 cm. Industria Argentina.",
+      "precio": 2700,
+      "puntuacion": "****"
+    },
+    {
+      "nombre":"Resaltador",
+      "descripcion":"Punta gruesa biselada, 4 U.",
+      "imagen":"Imagenes/resaltador.jpg",
+      "detalle":"4 resaltadores tipo fluo  marca Ozono con  colores intensos  de cuerpo chato, diseño práctico y ligero.Punta biselada de para tres anchos de línea que permite resaltar el texto, subrayar o marcar frases con trazo más grueso.Tintas fluorescentes de gran luminosidad aptas para papel y fotocopias.Práctico capuchón con clip. Su versatilidad, comodidad de uso y colores intensos lo convierten en una opción confiable para resaltar de manera efectiva en diversas situaciones de trabajo y estudio. De industria Argentina.",
+      "precio": 1880,
+      "puntuacion": "****"
+    },
+    {
+      "nombre":"Bolígrafo",
+      "descripcion":"Punta de trazo medio, tinta azul",
+      "imagen":"Imagenes/boligrafo.jpg",
+      "detalle":"Bolígrafo marca Zanni, modelo Jotter,  grosor de trazo 1m.m lo que representa un nivel medio con tipo de tinta a base de aceite, compuesta por materiales de plástico de industria Argentina. Con estuche incluido.",
+      "precio": 600,
+      "puntuacion": "***"
+    },
+    {
+      "nombre":"Lápices de colores",
+      "descripcion":"Mina super resistente, largos por 12 U.",
+      "imagen":"Imagenes/lapices.jpg",
+      "detalle":"Doce lápices dermografico marca estilo  aptos para una amplia variedad de superficies como papel cartón plastico, celofán, etc. Colores que incluyen son negro, rojo, amarillo, blanco, mostaza, dorado, marrón, naranja,azul, verde, bordo, violeta. No requiere sacar punta ya que trae un hilo en el extremo que al girar alrededor del mismo aparece la punta, brinda una mayor utilidad de la mina por su sistema de hilo. De industria Argentina.",
+      "precio": 2100,
+      "puntuacion": "***"
+    },
+    {
+      "nombre":"Cuaderno",
+      "descripcion":"Ecológico por 80 hojas, tamaño A4.",
+      "imagen":"Imagenes/cuaderno.jpg",
+      "detalle":"Cuaderno ecológico marca natur con un total  de 80 hojas de tamaño A4, contiene anillado doble ring wire  y  puede tener cualquier tipo de hoja que quieras (lisa, rayada, punteada, cuadriculada, pentagramada). Este producto está hecho de materiales ecológicos y reciclables, lo que lo convierte en una excelente opción para quienes buscan alternativas más sustentables. Fácil de llevar, este producto está diseñado para que lo puedas transportar siempre, tanto en mochilas como en carteras. De industria Argentina.",
+      "precio": 3800,
+      "puntuacion": "*****"
+    },
+    {
+      "nombre":"Mochila",
+      "descripcion":"Color negra o marrón, ecológica grande",
+      "imagen":"Imagenes/mochila.jpg",
+      "detalle":"Mochila  marca Trueno fabricada en cuero ecológico con leve relieve, reforzada y duradera bolsillo antirrobo en la espalda, para transportar tus objetos de valor. Internamente forrada a tono con el color de la mochila. Medidas aproximadas 34 cm alto x 27 cm ancho x 10 cm de profundidad. De industria Argentina.",
+      "precio": 8910,
+      "puntuacion": "*****"
+    }
+  ]
