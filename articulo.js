@@ -19,3 +19,9 @@ const productoDetallado = (producto)=>{
 };
 
 productoDetallado(productos[posicion]);
+
+let puntos = document.getElementById("color").innerHTML;
+
+let estrellas =  puntos.replaceAll("*" , "★");
+
+document.getElementById("color").innerHTML=estrellas;
